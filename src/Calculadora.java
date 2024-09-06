@@ -62,7 +62,7 @@ public class Calculadora {
         int opcion = scanner.nextInt();
 
         // Ejecutar la operación seleccionada
-        //Se utiliza un switch para manejar las diferentes operaciones
+        //Se utiliza un switch para manejar las diferentes operacionesgit
         // y un try-catch para capturar cualquier excepción, como la división por cero
         //try es una palabra clave utilizada en el manejo de excepciones. Permite manejar errores de
         // forma controlada y prevenir que un programa se detenga abruptamente si ocurre una
